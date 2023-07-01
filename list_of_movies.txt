@@ -1,1 +1,12 @@
 list_of_movies
+
+
+1.Dog Soldiers
+2.The Manchurian Candidate
+3.The Thing
+4.Transformers: Dark side of the moon
+5.Friday the 13th
+6.Nightmare on Elm Street
+7.The Conjuring 2
+8.Out of Time
+
